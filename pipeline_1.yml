@@ -4,6 +4,7 @@
 # https://aka.ms/yaml
 
 # this is being defined in app-ci pipeline
+trigger: none
 resources:
   pipelines:
   - pipeline: pipeline_0
