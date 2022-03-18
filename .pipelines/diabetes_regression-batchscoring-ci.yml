@@ -20,7 +20,7 @@ resources:
     trigger:
       branches:
         include:
-        - master
+        - demo_yc
 
 trigger:
   branches:
