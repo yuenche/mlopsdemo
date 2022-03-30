@@ -79,6 +79,8 @@ def main():
     for (k, v) in metrics.items():
         print(f"{k}: {v}")
 
+    # dummy comment to trigger CI - s00
+
 
 if __name__ == '__main__':
     main()
