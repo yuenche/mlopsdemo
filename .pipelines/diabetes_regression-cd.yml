@@ -21,7 +21,7 @@ resources:
     trigger:
       branches:
         include:
-        - demo_yc
+        - master
 
 variables:
 - template: diabetes_regression-variables-template.yml

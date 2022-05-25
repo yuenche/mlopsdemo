@@ -9,7 +9,7 @@ pr: none
 trigger:
   branches:
     include:
-    - demo_yc
+    - master
   paths:
     include:
     - diabetes_regression/
