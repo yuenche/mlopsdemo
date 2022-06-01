@@ -32,6 +32,8 @@ import json
 from train import split_data, train_model, get_model_metrics
 
 
+# add comments here: 2022-05-31
+
 def register_dataset(
     aml_workspace: Workspace,
     dataset_name: str,
